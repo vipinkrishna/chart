@@ -1,5 +1,6 @@
-# CHART JS BASICS!
-Chart JS codes for reference by:
+# CHART JS BASICS
 
-https://github.com/vipinkrishna (Wh: +917907450532)
-vipinkrishna.in@gmail.com
+## Chart JS codes for reference by:
+
+## https://github.com/vipinkrishna (Wh: +917907450532)
+## vipinkrishna.in@gmail.com
